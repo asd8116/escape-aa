@@ -1,6 +1,6 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
-   v2.0 | 20110126
-   License: none (public domain)
+/* http://meyerweb.com/eric/tools/css/reset/
+  v2.0 | 20110126
+  License: none (public domain)
 */
 
 html,
@@ -120,7 +120,7 @@ blockquote:before,
 blockquote:after,
 q:before,
 q:after {
-  content: "";
+  content: '';
   content: none;
 }
 table {
@@ -140,8 +140,8 @@ a {
 img {
   vertical-align: middle;
 }
-body{
-  background-image: url("https://khhrdi.kcg.gov.tw/images/kh_bg8.gif");
+body {
+  background-image: url('https://khhrdi.kcg.gov.tw/images/kh_bg8.gif');
 }
 .container {
   font-size: 14px;
@@ -155,13 +155,13 @@ body{
   color: white;
   padding: 16px 24px;
 }
-.nav-list{
+.nav-list {
   display: flex;
 }
-.nav-list a{
+.nav-list a {
   color: white;
-  padding-left:8px;
-  padding-right:8px;
+  padding-left: 8px;
+  padding-right: 8px;
 }
 .image {
   width: 100%;
@@ -178,7 +178,7 @@ body{
   border-top: solid 5px #72dddf;
   border-bottom: solid 5px #72dddf;
 }
-.left-item{
+.left-item {
   border-bottom: 1px solid white;
 }
 .left-item a {
@@ -186,8 +186,9 @@ body{
   padding: 8px 8px;
   letter-spacing: 2px;
   font-weight: 600;
-  text-shadow: -1px -1px 0px #37a4a5, 0px -1px 0px #37a4a5, 1px -1px 0px #37a4a5, -1px 0px 0px #37a4a5,
-    1px 0px 0px #37a4a5, -1px 1px 0px #37a4a5, 0px 1px 0px #37a4a5, 1px 1px 0px #37a4a5;
+  text-shadow: -1px -1px 0px #37a4a5, 0px -1px 0px #37a4a5, 1px -1px 0px #37a4a5,
+    -1px 0px 0px #37a4a5, 1px 0px 0px #37a4a5, -1px 1px 0px #37a4a5,
+    0px 1px 0px #37a4a5, 1px 1px 0px #37a4a5;
 }
 .center {
   width: 40%;
