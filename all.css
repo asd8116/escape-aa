@@ -144,7 +144,7 @@ body {
   background-image: url('https://khhrdi.kcg.gov.tw/images/kh_bg8.gif');
 }
 .container {
-  font-size: 14px;
+  font-size: 0.875em;
   margin: 0 auto;
   width: 960px;
 }
@@ -215,7 +215,7 @@ body {
   cursor: pointer;
 }
 .title {
-  font-size: 20px;
+  font-size: 1.25rem;
   border-bottom: 3px solid #2c86aa;
   padding-bottom: 10px;
 }
@@ -235,5 +235,5 @@ body {
   padding: 16px 24px;
   text-align: center;
   background: linear-gradient(#e6e6e6, white);
-  font-size: 12px;
+  font-size: 0.75rem;
 }
